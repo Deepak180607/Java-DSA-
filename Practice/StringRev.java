@@ -5,7 +5,7 @@ public class StringRev {
         if(s.isEmpty()){
             return " ";
         }else{
-            return rev(s.substring(1) + s.charAt(0)).toString();
+            return rev(s.substring(1) + s.charAt(0));
         }
     }
     public static void main(String[] args) {
