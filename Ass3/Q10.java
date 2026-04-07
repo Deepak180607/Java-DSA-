@@ -1,4 +1,4 @@
-package sports;
+package Ass3;
 
 public class Q10 {
     public static long fibo(int n){
