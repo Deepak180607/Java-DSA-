@@ -1,3 +1,4 @@
+package Ass3;
 
 public class DLL {
 
@@ -15,10 +16,6 @@ public class DLL {
             this.next = null;
             this.prev = null;
         }
-    }
-
-    public DLL(){
-    
     }
     public boolean isEmpty(){
         return head == null;
